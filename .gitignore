@@ -1,0 +1,16 @@
+# Directories
+.vs/
+
+# build
+build/
+
+# clangd
+.cache/
+
+# future files maybe
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+*.sln
+*.log
+Makefile
